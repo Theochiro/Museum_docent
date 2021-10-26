@@ -13,15 +13,15 @@ git clone https://github.com/Theochiro/Museum_docent
 cd ..
 catkin_make 
 ```
-Next, edit the yaml file in ```bash fetch_gazebo/documents``` accordingly.
+Next, edit the yaml file in ```fetch_gazebo/documents``` accordingly.
 
 Now, we only need to modify the texture files in gazebo. First cd into the gazebo-$version:
 ```bash
 cd /usr/share/gazebo-$version/media/materials/textures
 ```
-Add the textures from ```bash fetch_gazebo/documents```.
+Add the textures from ```fetch_gazebo/documents```.
 
-Finally, edit the ```bash gazebo.material``` file found in ```bash /gazebo-$version/media/materials/scripts```. Add the following lines:
+Finally, edit the ```gazebo.material``` file found in ```/gazebo-$version/media/materials/scripts```. Add the following lines:
 ```bash
  material Gazebo/Image
     {
