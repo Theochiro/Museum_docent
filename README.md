@@ -4,7 +4,7 @@ A Gazebo world where Fetch robot can explore and navigate freely.
 
 ## Installation
 
-Make sure you have installed all fetch files for the [Gazebo Simulation] (https://docs.fetchrobotics.com/gazebo.html).
+Make sure you have installed all fetch files for the [Gazebo Simulation](https://docs.fetchrobotics.com/gazebo.html).
 
 Alternatively, run the following commands:
 ```bash
