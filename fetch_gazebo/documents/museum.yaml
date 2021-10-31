@@ -1,7 +1,0 @@
-image: /home/usr/catkin_ws/src/fetch_gazebo/documents/museum.pgm
-resolution: 0.050000
-origin: [-14.627679, -16.444936, 0.000000]
-negate: 0
-occupied_thresh: 0.65
-free_thresh: 0.196
-
