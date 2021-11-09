@@ -94,7 +94,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image15</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -136,7 +136,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image22</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -178,7 +178,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image31</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -220,7 +220,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -262,7 +262,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image13</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -304,7 +304,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -326,7 +326,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -362,7 +362,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -398,7 +398,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -460,7 +460,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -502,7 +502,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image27</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -544,7 +544,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image14</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -586,7 +586,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image30</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -608,7 +608,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -644,7 +644,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -680,7 +680,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -742,7 +742,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image32</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -784,7 +784,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image33</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -826,7 +826,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -910,7 +910,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image34</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -952,12 +952,11 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image25</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
         </visual>
-        <pose frame=''>3.06012 -16.3249 0 0 -0 3.14159</pose>
         <self_collide>0</self_collide>
         <kinematic>0</kinematic>
         <gravity>1</gravity>
@@ -994,7 +993,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image35</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1016,7 +1015,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1052,7 +1051,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1088,7 +1087,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1150,7 +1149,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1172,7 +1171,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1208,7 +1207,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1244,7 +1243,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1306,7 +1305,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image40</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1348,7 +1347,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image21</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1390,7 +1389,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image36</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1432,7 +1431,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1474,7 +1473,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1516,7 +1515,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1558,7 +1557,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1600,7 +1599,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1642,7 +1641,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1684,7 +1683,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1726,7 +1725,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image37</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1768,7 +1767,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1810,7 +1809,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1852,7 +1851,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1894,7 +1893,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1936,7 +1935,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -1978,7 +1977,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2020,7 +2019,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2062,7 +2061,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2104,7 +2103,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image38</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2146,7 +2145,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2188,7 +2187,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2230,7 +2229,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2272,7 +2271,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2314,7 +2313,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2356,7 +2355,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2398,7 +2397,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2440,7 +2439,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2482,7 +2481,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image39</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2524,7 +2523,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2566,7 +2565,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2608,7 +2607,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2650,7 +2649,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2692,7 +2691,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2734,7 +2733,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2776,7 +2775,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2818,7 +2817,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2860,7 +2859,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image28</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2902,7 +2901,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2944,7 +2943,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -2986,7 +2985,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3028,7 +3027,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3070,7 +3069,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3112,7 +3111,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3154,7 +3153,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3196,7 +3195,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3238,7 +3237,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3280,7 +3279,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3322,7 +3321,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3364,7 +3363,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3448,7 +3447,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image10</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3490,7 +3489,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image18</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3532,7 +3531,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image17</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3574,7 +3573,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image19</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3616,7 +3615,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image29</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3658,7 +3657,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image26</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3700,7 +3699,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3742,7 +3741,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3784,7 +3783,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image20</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3826,7 +3825,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3868,7 +3867,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3910,7 +3909,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3952,7 +3951,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image12</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -3994,7 +3993,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image23</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4036,7 +4035,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image11</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4058,7 +4057,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4094,7 +4093,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4136,7 +4135,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4172,7 +4171,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4208,7 +4207,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4270,7 +4269,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image24</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4292,7 +4291,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4328,7 +4327,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4364,7 +4363,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4426,7 +4425,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image7</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4468,7 +4467,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image16</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4510,7 +4509,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image5</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4552,7 +4551,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image6</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4594,7 +4593,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Image2</name>
+              <name>Gazebo/Image3</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4636,7 +4635,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4678,7 +4677,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/PaintedWall</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4720,7 +4719,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image9</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
@@ -4804,7 +4803,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Image8</name>
             </script>
             <ambient>1 1 1 1</ambient>
           </material>
