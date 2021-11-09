@@ -15,11 +15,7 @@ catkin_make
 ```
 Next, edit the yaml file in ```fetch_gazebo/documents``` accordingly.
 
-Now, we only need to modify the texture files in gazebo. First cd into the gazebo-$version:
-```bash
-cd /usr/share/gazebo-$version/media/materials/textures
-```
-Add the textures from using:
+Now, we only need to modify the texture files in gazebo:
 ```bash
 sudo mv ~/catkin_ws/src/Museum_docent/textures /usr/share/gazebo-$version/media/materials/textures/
 ```
@@ -29,4 +25,3 @@ Finally, replace the ```gazebo.material``` file found in ```/gazebo-$version/med
  sudo mv ~/catkin_ws/src/Museum_docent/gazebo.material /usr/share/gazebo-$version/media/materials/scripts/
 ```
 Everything should be working properly!
-
