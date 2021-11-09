@@ -19,65 +19,14 @@ Now, we only need to modify the texture files in gazebo. First cd into the gazeb
 ```bash
 cd /usr/share/gazebo-$version/media/materials/textures
 ```
-Add the textures from ```fetch_gazebo/documents```.
-
-Finally, edit the ```gazebo.material``` file found in ```/gazebo-$version/media/materials/scripts```. Add the following lines:
+Add the textures from using:
 ```bash
- material Gazebo/Image
-    {
-      technique
-      {
-        pass
-        {
-          ambient 0.5 0.5 0.5 1.0
-          diffuse 1.0 1.0 1.0 1.0
-          specular 0.0 0.0 0.0 1.0 0.5
+sudo mv ~/catkin_ws/src/Museum_docent/textures /usr/share/gazebo-$version/media/materials/textures/
+```
 
-          texture_unit
-          {
-            texture test1.png
-            filtering trilinear
-          }
-        }
-      }
-    }
-
- material Gazebo/Image1
-    {
-      technique
-      {
-        pass
-        {
-          ambient 0.5 0.5 0.5 1.0
-          diffuse 1.0 1.0 1.0 1.0
-          specular 0.0 0.0 0.0 1.0 0.5
-
-          texture_unit
-          {
-            texture test2.png
-            filtering trilinear
-          }
-        }
-      }
-    }
- material Gazebo/Image2
-    {
-      technique
-      {
-        pass
-        {
-          ambient 0.5 0.5 0.5 1.0
-          diffuse 1.0 1.0 1.0 1.0
-          specular 0.0 0.0 0.0 1.0 0.5
-
-          texture_unit
-          {
-            texture test3_big.png
-            filtering trilinear
-          }
-        }
-      }
-    }
+Finally, replace the ```gazebo.material``` file found in ```/gazebo-$version/media/materials/scripts``` with the one provided:
+```bash
+ sudo mv ~/catkin_ws/src/Museum_docent/gazebo.material /usr/share/gazebo-$version/media/materials/scripts/
 ```
 Everything should be working properly!
 
