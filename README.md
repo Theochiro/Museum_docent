@@ -17,7 +17,7 @@ Next, edit the yaml file in ```fetch_gazebo/documents``` accordingly.
 
 Now, we only need to modify the texture files in gazebo:
 ```bash
-sudo mv ~/catkin_ws/src/Museum_docent/textures /usr/share/gazebo-$version/media/materials/textures/
+sudo mv ~/catkin_ws/src/Museum_docent/textures/* /usr/share/gazebo-$version/media/materials/textures/ && sudo rm -r textures/
 ```
 
 Finally, replace the ```gazebo.material``` file found in ```/gazebo-$version/media/materials/scripts``` with the one provided:
